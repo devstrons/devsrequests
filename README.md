@@ -1,4 +1,4 @@
-# devsrequests <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Octicons-git-pull-request.svg" width=16px>
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Octicons-git-pull-request.svg" width=16px> devsrequests 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devstrons) 
 [![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 

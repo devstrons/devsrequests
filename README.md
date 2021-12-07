@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devstrons) 
 [![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 
-[![Join our Discord](https://img.shields.io/badge/Join-Discord-8CA1A5?logo=discord&logoColor=white)](https://discord.gg/MVujzTBqed)
+[![Join our Discord](https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord)](https://discord.gg/MVujzTBqed)
 
 👉 **How can you [get on board as a mentor](#).** ✨
 
@@ -22,7 +22,7 @@ Here's a home to your queries and quest for potential issues to contribute. Have
 ❯ [Become a mentor](#mentoring) 🙌
 
 
-Hope we help each other to complete the [DEVSRequests](#) challenge!
+Hope we help each other to complete the [devsrequest](#) challenge!
 
 ## Beginner-friendly repositories
 
@@ -56,6 +56,9 @@ As a mentor, you will:
 
 - 🤝 **welcome and help others participate in the devsrequest event**.
 
+## Collaborating with:
+
+<img src= "./assets/devstrons-devicons.png">
 
 ## 💁‍♂️ Need help
 

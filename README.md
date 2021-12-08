@@ -3,11 +3,11 @@
 [![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 
 [![Join our Discord](https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord)](https://discord.gg/MVujzTBqed)
 
-👉 **Sign up at [24PullRequests.com](https://24pullrequests.com/)**
+👉 **Sign up at [24PullRequests.com](https://24pullrequests.com/) and look up [DEVSREQUESTS](https://24pullrequests.com/events/43)**
  
-👉 **Register to the Event from [here](#) and Fill this [Form](https://forms.office.com/r/qyTFh5DBnm).** ✨
+👉 **Register to the Event by Filling this [Form](https://forms.office.com/r/qyTFh5DBnm).** ✨
 
-👉 **How can you [get on board as a mentor](#).** ✨
+👉 **How can you [get on board as a mentor](#-mentoring).** ✨
 
 👉 **Kindly [submit your details](https://github.com/devstrons/devsrequests/discussions/1) if you're beginner who's looking for a mentor**. 🌈
 

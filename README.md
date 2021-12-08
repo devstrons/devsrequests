@@ -4,18 +4,21 @@
 [![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 
 [![Join our Discord](https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord)](https://discord.gg/MVujzTBqed)
 
+👉 **Sign up at [24PullRequests.com](https://24pullrequests.com/)**
+ 
+👉 **Register to the Event from [here](#) and Fill this [Form](https://forms.office.com/r/qyTFh5DBnm).** ✨
+
 👉 **How can you [get on board as a mentor](#).** ✨
 
-👉 **Kindly [submit your details](#) if you're beginner who's looking for a mentor**. 🌈
+👉 **Kindly [submit your details](https://github.com/devstrons/devsrequests/discussions/1) if you're beginner who's looking for a mentor**. 🌈
 
 
-### Quick Links
-
-Here's a home to your queries and quest for potential issues to contribute. Have fun contributing to the projects and get your `Open Source Contributions` going 🚀 
-
+> ### Quick Links
+> Here's a home to your queries and quest for potential issues to contribute. Have fun contributing to the projects and get your `Open Source Contributions` going 🚀 
 
 
-❯ [Ask Your Doubts](#️-need-help-) 💬
+
+❯ [Ask Your Doubts](#️-need-help) 💬
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
@@ -38,10 +41,11 @@ Hope we help each other to complete the [devsrequest](#) challenge!
 
 - Kindly follow [these instructions](#) to raise the PR.
        
-- Resolve the beginner's queries [here](#).
+- Resolve your queries [here](https://github.com/devstrons/devsrequests/discussions/1).
 
 - Are you willing to be a mentor to help beginners? **Raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md).
 
+<br />
 
 ## 👨‍🏫 Mentoring
 
@@ -51,28 +55,20 @@ As a mentor, you will:
 
 - 🙏  **resolve beginner's doubts**
 
-- 👍 **share beginner-friendly issues (& repositories)**.
-
 - 💬 **engage with other community members**.
 
-- 🤝 **welcome and help others participate in the devsrequest event**.
+- 🤝 **welcome and help others participate in the Devsrequest**.
 
 ## Collaborating with:
 
-<img src= "./assets/devstrons-devicons.png">
+<img src="./assets/devstrons-devicon.png">
 
 ## 💁‍♂️ Need help
 
-Are you a beginner looking for help in kickstarting  your open-source journey? [Start a discussion here](#). The community will always welcome your doubts! 
+Are you a beginner looking for help in kickstarting  your open-source journey? [Start a discussion here](https://github.com/devstrons/devsrequests/discussions/1). The community will always welcome your doubts! 
 
-- Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your mentor [here](./MENTORS.md)**.
+- Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your [mentor here](./MENTORS.md)**.
 - Join us on [Discord](https://discord.gg/MVujzTBqed).
 
 
-<!-- /space for badges 
-(
-    - devstrons
-    - Devicon
-    - twitter version
-) 
--->
+

@@ -45,7 +45,6 @@ Hope we help each other to complete the [devsrequest](#) challenge!
 
 - Are you willing to be a mentor to help beginners? **Raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md).
 
-<br />
 
 ## 👨‍🏫 Mentoring
 

@@ -1,4 +1,3 @@
-<img src="https://socialify.git.ci/devstrons/devsrequests/image?description=1&font=Raleway&owner=1&pattern=Circuit%20Board&theme=Dark" alt="devsrequests" width="1040" height="320" />
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devstrons) 
 [![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 
@@ -27,7 +26,7 @@
 
 Hope we help each other to complete the [devsrequest](#) challenge!
 
-## Beginner-friendly repositories
+## 📚 Beginner-friendly repositories
 
 | Serial No. | Repository  | Issues  | Pull Requests  | Forks |
 |:--:|:--|:--|:--|:--|

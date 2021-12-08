@@ -1,3 +1,4 @@
+[<img src="./assets/banner.png" alt="Devsrequest">](https://24pullrequests.com/events/43)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devstrons) 
 [![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 
@@ -59,7 +60,7 @@ As a mentor, you will:
 
 ## Collaborating with:
 
-<img src="./assets/devstrons-devicon.png">
+<img src="./assets/devstrons-devicon.png" alt="Collaboration">
 
 ## 💁‍♂️ Need help
 

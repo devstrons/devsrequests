@@ -1,4 +1,4 @@
-# DEVSREQUESTS - Collaborating with [Devicon](https://devicon.dev) 🚀
+# DEVSREQUESTS - Collaborating with [{ Devicon }](https://devicon.dev) 🚀
 
 [![Banner](https://raw.githubusercontent.com/devstrons/devsrequests/main/assets/banner.png)](https://24pullrequests.com/events/43)
 

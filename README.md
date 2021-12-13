@@ -1,31 +1,30 @@
-[<img src="./assets/banner.png" alt="Devsrequest">](https://24pullrequests.com/events/43)
+# DEVSREQUESTS - Collaborating with [Devicon](https://devicon.dev) 🚀
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devstrons) 
-[![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE) 
+[![Banner](https://raw.githubusercontent.com/devstrons/devsrequests/main/assets/banner.png)](https://24pullrequests.com/events/43)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/devstrons)
+[![GitHub license](https://img.shields.io/github/license/devstrons/devsrequests?logo=GITHUB&style=flat)](https://github.com/devstrons/devsrequests/blob/master/LICENSE)
 [![Join our Discord](https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord)](https://discord.gg/MVujzTBqed)
 
 👉 **Sign up at [24PullRequests.com](https://24pullrequests.com/) and look up [DEVSREQUESTS](https://24pullrequests.com/events/43)**
- 
+
 👉 **Register to the Event by Filling this [Form](https://forms.office.com/r/qyTFh5DBnm).** ✨
 
 👉 **How can you [get on board as a mentor](#-mentoring).** ✨
 
 👉 **Kindly [submit your details](https://github.com/devstrons/devsrequests/discussions/1) if you're beginner who's looking for a mentor**. 🌈
 
+> ## Quick Links
+>
+> Here's a home to your queries and quest for potential issues to contribute. Have fun contributing to the projects and get your `Open Source Contributions` going 🚀
 
-> ### Quick Links
-> Here's a home to your queries and quest for potential issues to contribute. Have fun contributing to the projects and get your `Open Source Contributions` going 🚀 
-
-
-
-❯ [Ask Your Doubts](#️-need-help) 💬
+❯ [Ask Your Doubts](#%EF%B8%8F-need-help) 💬
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
 ❯ [Become a mentor](#mentoring) 🙌
 
-
-Hope we help each other to complete the [devsrequest](#) challenge!
+Hope we help each other to complete the [DEVSREQUESTS](https://github.com/devstrons/devsrequests) challenge!
 
 ## 📚 Beginner-friendly repositories
 
@@ -36,19 +35,16 @@ Hope we help each other to complete the [devsrequest](#) challenge!
 | 3. | [newsXplorer](https://github.com/devstrons/newsXplorer)  | [![GitHub issues](https://img.shields.io/github/issues/devstrons/newsXplorer?color=red&logo=github&style=flat-square)](https://github.com/devstrons/newsXplorer/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/devstrons/newsXplorer?style=social&logo=github)](https://github.com/devstrons/newsXplorer/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/devstrons/newsXplorer?style=flat-square&logo=git)](https://github.com/devstrons/newsXplorer/network) |
 | 4. | [contest-bot](https://github.com/devstrons/contest-bot)  | [![GitHub issues](https://img.shields.io/github/issues/devstrons/contest-bot?color=red&logo=github&style=flat-square)](https://github.com/devstrons/contest-bot/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/devstrons/contest-bot?style=social&logo=github)](https://github.com/devstrons/contest-bot/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/devstrons/contest-bot?style=flat-square&logo=git)](https://github.com/devstrons/contest-bot/network) |
 
-
 ## 🌐 Contributing
 
-- Kindly follow [these instructions](#) to raise the PR.
-       
-- Resolve your queries [here](https://github.com/devstrons/devsrequests/discussions/1).
+- Kindly follow [these instructions](#) to raise a PR.
+- Resolve your queries in this discussion: <https://github.com/devstrons/devsrequests/discussions/1>.
 
 - Are you willing to be a mentor to help beginners? **Raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md).
 
-
 ## 👨‍🏫 Mentoring
 
-If you're interested to become a mentor to help beginners kickstart their open-source journey, Feel free to **raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md). 
+If you're interested to become a mentor to help beginners kickstart their open-source journey, Feel free to **raise a pull request** to add your name to [`MENTORS.md`](./MENTORS.md).
 
 As a mentor, you will:
 
@@ -58,16 +54,13 @@ As a mentor, you will:
 
 - 🤝 **welcome and help others participate in the Devsrequest**.
 
-## Collaborating with:
+## 🚀 Collaborating with
 
-<img src="./assets/devstrons-devicon.png" alt="Collaboration">
+![collaboration](https://raw.githubusercontent.com/devstrons/devsrequests/main/assets/devstrons-devicon.png)
 
 ## 💁‍♂️ Need help
 
-Are you a beginner looking for help in kickstarting  your open-source journey? [Start a discussion here](https://github.com/devstrons/devsrequests/discussions/1). The community will always welcome your doubts! 
+Are you a beginner looking for help in kickstarting  your open-source journey? [Start a discussion here](https://github.com/devstrons/devsrequests/discussions/1). The community will always welcome your doubts!
 
 - Additionally, you can reach out to the mentors to get 1:1 help to resolve your queries. **Find your [mentor here](./MENTORS.md)**.
-- Join us on [Discord](https://discord.gg/MVujzTBqed).
-
-
-
+- Join our inclusive, collaborative, and welcoming community on [Discord](https://discord.gg/MVujzTBqed)!

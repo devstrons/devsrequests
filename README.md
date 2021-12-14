@@ -8,11 +8,11 @@
 
 👉 **Sign up at [24PullRequests.com](https://24pullrequests.com/) and look up [DEVSREQUESTS](https://24pullrequests.com/events/43)**
 
-👉 **Register to the Event by Filling this [Form](https://forms.office.com/r/qyTFh5DBnm).** ✨
+👉 **Register for the Event by Filling this [Form](https://forms.office.com/r/qyTFh5DBnm).** ✨
 
-👉 **How can you [get on board as a mentor](#-mentoring).** ✨
+👉 **How can you [get on board as a mentor](#-mentoring)?** ✨
 
-👉 **Kindly [submit your details](https://github.com/devstrons/devsrequests/discussions/1) if you're beginner who's looking for a mentor**. 🌈
+👉 **Kindly [submit your details](https://github.com/devstrons/devsrequests/discussions/1) if you're a beginner who's looking for a mentor**. 🌈
 
 > ## Quick Links
 >

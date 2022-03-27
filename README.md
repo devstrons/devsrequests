@@ -22,7 +22,7 @@
 
 ❯ [Find your mentor](./MENTORS.md) 🤝
 
-❯ [Become a mentor](#mentoring) 🙌
+❯ [Become a mentor](#-mentoring) 🙌
 
 Hope we help each other to complete the [DEVSREQUESTS](https://github.com/devstrons/devsrequests) challenge!
 
